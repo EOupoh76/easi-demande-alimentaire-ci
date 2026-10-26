@@ -1,0 +1,10 @@
+# Microdonnées : ne jamais publier (propriété de l'INS/ANStat, conditions de la Banque mondiale)
+*.csv
+*.dta
+*.txt
+*.xlsx
+*.rar
+*.zip
+donnees/
+sorties/
+__pycache__/
