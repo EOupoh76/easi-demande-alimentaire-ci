@@ -40,8 +40,13 @@ Graine aléatoire du bootstrap : 2014.
 
 ## Citation
 
-Oupoh, O. E. (2026). *La demande alimentaire urbaine en Côte d'Ivoire face à deux crises de prix :
-estimations du système EASI sur l'ENV 2008 et l'EHCVM 2021-2022*. Code source, version 1.0.
+Pour citer ce code :
+
+Oupoh, O. E. (2026). *Programmes EASI : demande alimentaire urbaine en Côte d'Ivoire
+(ENV 2008 et EHCVM 2021-2022)*, version 1.0 [logiciel]. Zenodo.
+https://doi.org/10.5281/zenodo.23687723
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23687723.svg)](https://doi.org/10.5281/zenodo.23687723)
 
 ## Déclaration
 
